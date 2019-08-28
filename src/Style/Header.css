@@ -1,0 +1,27 @@
+.link{
+  text-decoration-color: white;
+  color:white;
+  text-align: center;
+}
+
+#head{
+  background-color: blue;
+
+
+}
+
+.image_header{
+  background-image: url("https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  width: 1400px;
+  height: 500px;
+
+}
+
+h2{
+  color:white;
+
+}
+
+center{
+  text-align: center;
+}
